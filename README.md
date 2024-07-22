@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpss&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpss" /> </p>
 
-- 🔭 I’m currently working on [Project Jugaad](https://github.com/PiyushPSS/Project_Jugaad)
+- 🔭 I’m currently working on [Portfolio](https://github.com/PiyushPSS/Portfolio)
 
 - 🌱 I’m currently learning **MERN STACK, REACT JS, NEXT.JS**
 
